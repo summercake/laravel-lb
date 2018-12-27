@@ -83,7 +83,7 @@
                 <div class="title m-b-md">
                     Laravel Load Balance Deployment
                     <br>
-                    MySQL Test
+                    MySQL Test 4
                 </div>
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
