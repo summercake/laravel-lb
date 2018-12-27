@@ -4,5 +4,4 @@
     cd /var/www/laravel-lb
     git pull origin master
     composer install --no-dev
-    php artisan migrate --force
 @endtask
